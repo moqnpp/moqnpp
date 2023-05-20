@@ -10,7 +10,8 @@ Currently I'm working `Front-end Developer`
 ---
 ### 🛠️ Languages and Tools :  
 Advanced.  
- <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"  width="50px">
+  
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"  width="50px">
 
 ![HTML]()
 ![CSS](https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg)
