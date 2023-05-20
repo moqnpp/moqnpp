@@ -10,8 +10,7 @@ Currently I'm working `Front-end Developer`
 ---
 ### 🛠️ Languages and Tools :  
 Advanced. 
- <img src="https://github.com/moqnpp/moqnpp/blob/87a2593cffb53fc80b6ef213b9c45b0f1d7af658/cappoo.gif" width:""/>  
- <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"  width="100px" height="100px">
+ <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"  width="50px">
 
 ![HTML]()
 ![CSS](https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg)
