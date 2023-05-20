@@ -3,11 +3,7 @@
 My name is Numpet Howhan or you can call me Bo  
 Currently I'm working `Front-end Developer`
 
-![](https://github.com/moqnpp/moqnpp/blob/87a2593cffb53fc80b6ef213b9c45b0f1d7af658/cappoo.gif)
-
----
-
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp3082255.jpg" />
   <img src="https://github.com/moqnpp/moqnpp/blob/87a2593cffb53fc80b6ef213b9c45b0f1d7af658/cappoo.gif" />  
 </p>
+---
