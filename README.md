@@ -1,5 +1,5 @@
 ```
-print("Hello DEV World") 
+###print("Hello DEV World") 
 ```
 
 ### Hi I'm Numpet Howhan, Welcome to My word DEV 💻
