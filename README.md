@@ -22,7 +22,7 @@ Beginner
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg"  width="50px">
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moqnpp)](https://github.com/anuraghazra/github-readme-stats).  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moqnpp)](https://github.com/anuraghazra/github-readme-stats).  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moqnpp)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moqnpp&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moqnpp&layout=compact)](https://github.com/moqnpp/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moqnpp&layout=pie)](https://github.com/moqnpp/github-readme-stats)
