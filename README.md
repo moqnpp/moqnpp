@@ -8,3 +8,4 @@ Currently I'm working `Front-end Developer`
 </p>
 
 ---
+### 🛠️ Languages and Tools :
