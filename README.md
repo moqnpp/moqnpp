@@ -1,10 +1,5 @@
 ### Hi I'm Numpet Howhan, Welcome to My word DEV 💻
 
 ![](https://github.com/moqnpp/moqnpp/blob/87a2593cffb53fc80b6ef213b9c45b0f1d7af658/cappoo.gif)
-![moqnpp](https://github.com/moqnpp/moqnpp/blob/87a2593cffb53fc80b6ef213b9c45b0f1d7af658/cappoo.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
-![placeholder](https://via.placeholder.com/100x150){:style="display:block; margin-left:auto; margin-right:auto"}
-
-{:style="text-align:center;"}
-  ![placeholder](https://via.placeholder.com/100x150)
-  ![placeholder](https://via.placeholder.com/100x150)
+<div style="text-align:center"><img src="https://github.com/moqnpp/moqnpp/blob/87a2593cffb53fc80b6ef213b9c45b0f1d7af658/cappoo.gif" /></div>
