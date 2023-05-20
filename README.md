@@ -22,5 +22,6 @@ Beginner
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg"  width="50px">
 
 ---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moqnpp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moqnpp)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moqnpp&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
